@@ -6,4 +6,4 @@ simply grants the ability to freely download bandlab samples again! no more cred
 
 we don't support this!!
 
-![bandlab sounds claim](https://github.com/ivymroow/Bandlab-Sample-Downloader/raw/main/docs/bandlab-sounds-claim.png)
+![bandlab sounds claim](bandlab-sounds-claim.png)
