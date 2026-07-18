@@ -8,6 +8,6 @@ we don't support this!!
 
 ![bandlab sounds claim](bandlab-sounds-claim.png)
 
-## UI Preview
+## ui preview
 
-![UI Preview](ui.png?raw=true)
+![ui preview](ui.png?raw=true)
