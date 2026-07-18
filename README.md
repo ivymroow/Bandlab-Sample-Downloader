@@ -7,3 +7,7 @@ simply grants the ability to freely download bandlab samples again! no more cred
 we don't support this!!
 
 ![bandlab sounds claim](bandlab-sounds-claim.png)
+
+## UI Preview
+
+![UI Preview](ui.png?raw=true)
