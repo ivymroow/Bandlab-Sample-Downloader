@@ -14,7 +14,7 @@ we don't support this!!
 
 ## ui preview
 
-![ui preview](ui.png?raw=true)
+![ui preview](ui_early.png)
 
 ## disclaimer #2 
 
