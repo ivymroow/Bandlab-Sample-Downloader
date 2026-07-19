@@ -1,3 +1,7 @@
+[CURRENTLY WAITING FOR IT TO REACH CHROME WEB STORE!!!]
+
+
+
 # bandlab sample downloader
 
 simply grants the ability to freely download bandlab samples again! no more credit system :)
