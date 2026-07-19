@@ -14,7 +14,11 @@ we don't support this!!
 
 ## ui preview
 
-![ui preview](ui_early.png)
+![ui preview_packs](ui_packs.png)
+![ui preview_samples](ui_sample.png)
+![ui preview_download](ui_download.png)
+![ui preview_favourite](ui_favourite.png)
+![ui preview_info](ui_info.png)
 
 ## disclaimer #2 
 
