@@ -77,3 +77,9 @@ if you want this taken down contact my github.
 - **throttled progress updates** (120ms minimum interval) to prevent rapid visual flickering
 - **parallel file fetching** with Promise.all (browser manages 6 concurrent connections per domain)
 - **error resilience**: failed/skipped files don't block zip; individual `chrome.downloads.download` fallback on complete zip failure
+
+### coming soon 
+
+**download songs directly from bandlab feed! save your own songs! save your friends songs!** 
+
+**every feature within this extension is explicitly free and always will be.** 
