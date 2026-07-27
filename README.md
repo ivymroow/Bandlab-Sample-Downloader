@@ -1,7 +1,6 @@
-[CURRENTLY WAITING FOR IT TO REACH CHROME WEB STORE!!!]
+https://chromewebstore.google.com/detail/bandlab-sample-downloader/bblmdiimfcicgalfppodgdgmphlifakh?hl=en-US&authuser=0
 
-
-
+extension download
 # bandlab sample downloader
 
 simply grants the ability to freely download bandlab samples again! no more credit system :)
